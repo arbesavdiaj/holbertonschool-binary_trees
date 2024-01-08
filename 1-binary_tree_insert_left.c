@@ -30,8 +30,6 @@ if (parent->left)
 new_node->left = parent->left;
 parent->left->parent = new_node;
 }
-else
-new_node->left = NULL;
 
 parent->left = new_node;
 
