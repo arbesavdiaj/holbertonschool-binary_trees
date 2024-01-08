@@ -13,6 +13,7 @@ This project is part of the Holberton School curriculum. It contains tasks and e
 
 ## Installation and Usage of Program
 **Prerequisites**
+* Ubuntu 20.04 LTS
 * C Compiler (e.g., GCC)
 
 **To use the shell, follow these steps:**
@@ -61,6 +62,7 @@ The project contains the following tasks:
 | Is perfect | 16-binary_tree_is_perfect.c | Check if a binary tree is perfect. |
 | Sibling | 17-binary_tree_sibling.c | Find the sibling of a node. |
 | Uncle | 18-binary_tree_uncle.c | Find the uncle of a node. |
+| Header | binary_trees.h | Libraries, data structures, types for binary trees and prototypes. |
 
 ## Credits
 
